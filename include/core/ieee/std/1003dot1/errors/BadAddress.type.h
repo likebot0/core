@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_BadAddress
+#define _core_ieee_std_1003dot1_errors_BadAddress ::core_ieee_std_1003dot1_errors_BadAddress
+
+struct core_ieee_std_1003dot1_errors_BadAddress {
+};
+
+#endif

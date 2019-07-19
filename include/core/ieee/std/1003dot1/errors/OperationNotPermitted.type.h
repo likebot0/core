@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_OperationNotPermitted
+#define _core_ieee_std_1003dot1_errors_OperationNotPermitted ::core_ieee_std_1003dot1_errors_OperationNotPermitted
+
+struct core_ieee_std_1003dot1_errors_OperationNotPermitted {
+};
+
+#endif

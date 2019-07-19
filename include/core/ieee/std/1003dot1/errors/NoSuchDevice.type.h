@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_NoSuchDevice
+#define _core_ieee_std_1003dot1_errors_NoSuchDevice ::core_ieee_std_1003dot1_errors_NoSuchDevice
+
+struct core_ieee_std_1003dot1_errors_NoSuchDevice {
+};
+
+#endif

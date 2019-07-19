@@ -1,0 +1,8 @@
+#ifndef _core_io_socket_protocols_Ipv6
+#define _core_io_socket_protocols_Ipv6 ::core_io_socket_protocols_Ipv6
+
+#include <core/preprocessor/define_generic_opaque_type_alias.h>
+
+_core_preprocessor_define_generic_opaque_type_alias(core_io_socket_protocols_Ipv6);
+
+#endif

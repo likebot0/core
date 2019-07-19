@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_ResourceBusy
+#define _core_ieee_std_1003dot1_errors_ResourceBusy ::core_ieee_std_1003dot1_errors_ResourceBusy
+
+struct core_ieee_std_1003dot1_errors_ResourceBusy {
+};
+
+#endif

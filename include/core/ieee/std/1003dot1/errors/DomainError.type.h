@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_DomainError
+#define _core_ieee_std_1003dot1_errors_DomainError ::core_ieee_std_1003dot1_errors_DomainError
+
+struct core_ieee_std_1003dot1_errors_DomainError {
+};
+
+#endif

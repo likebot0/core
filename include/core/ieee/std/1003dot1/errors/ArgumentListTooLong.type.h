@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_ArgumentListTooLong
+#define _core_ieee_std_1003dot1_errors_ArgumentListTooLong ::core_ieee_std_1003dot1_errors_ArgumentListTooLong
+
+struct core_ieee_std_1003dot1_errors_ArgumentListTooLong {
+};
+
+#endif

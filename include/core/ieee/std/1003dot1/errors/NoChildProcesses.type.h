@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_NoChildProcesses
+#define _core_ieee_std_1003dot1_errors_NoChildProcesses ::core_ieee_std_1003dot1_errors_NoChildProcesses
+
+struct core_ieee_std_1003dot1_errors_NoChildProcesses {
+};
+
+#endif

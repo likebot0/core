@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_InappropriateIoControlOperation
+#define _core_ieee_std_1003dot1_errors_InappropriateIoControlOperation ::core_ieee_std_1003dot1_errors_InappropriateIoControlOperation
+
+struct core_ieee_std_1003dot1_errors_InappropriateIoControlOperation {
+};
+
+#endif

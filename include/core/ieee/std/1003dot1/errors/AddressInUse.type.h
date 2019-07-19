@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_AddressInUse
+#define _core_ieee_std_1003dot1_errors_AddressInUse ::core_ieee_std_1003dot1_errors_AddressInUse
+
+struct core_ieee_std_1003dot1_errors_AddressInUse {
+};
+
+#endif

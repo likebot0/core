@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_NoSuchfileOrDirectory
+#define _core_ieee_std_1003dot1_errors_NoSuchfileOrDirectory ::core_ieee_std_1003dot1_errors_NoSuchfileOrDirectory
+
+struct core_ieee_std_1003dot1_errors_NoSuchfileOrDirectory {
+};
+
+#endif

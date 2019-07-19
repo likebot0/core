@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_PreviousOwnerDied
+#define _core_ieee_std_1003dot1_errors_PreviousOwnerDied ::core_ieee_std_1003dot1_errors_PreviousOwnerDied
+
+struct core_ieee_std_1003dot1_errors_PreviousOwnerDied {
+};
+
+#endif

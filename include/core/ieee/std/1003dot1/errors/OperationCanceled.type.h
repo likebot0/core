@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_OperationCanceled
+#define _core_ieee_std_1003dot1_errors_OperationCanceled ::core_ieee_std_1003dot1_errors_OperationCanceled
+
+struct core_ieee_std_1003dot1_errors_OperationCanceled {
+};
+
+#endif

@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_ConnectionAborted
+#define _core_ieee_std_1003dot1_errors_ConnectionAborted ::core_ieee_std_1003dot1_errors_ConnectionAborted
+
+struct core_ieee_std_1003dot1_errors_ConnectionAborted {
+};
+
+#endif

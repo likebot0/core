@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_ResourceDeadlockWouldOccur
+#define _core_ieee_std_1003dot1_errors_ResourceDeadlockWouldOccur ::core_ieee_std_1003dot1_errors_ResourceDeadlockWouldOccur
+
+struct core_ieee_std_1003dot1_errors_ResourceDeadlockWouldOccur {
+};
+
+#endif

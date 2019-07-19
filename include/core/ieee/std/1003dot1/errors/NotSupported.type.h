@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_NotSupported
+#define _core_ieee_std_1003dot1_errors_NotSupported ::core_ieee_std_1003dot1_errors_NotSupported
+
+struct core_ieee_std_1003dot1_errors_NotSupported {
+};
+
+#endif

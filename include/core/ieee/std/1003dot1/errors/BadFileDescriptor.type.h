@@ -1,0 +1,7 @@
+#ifndef _core_ieee_std_1003dot1_errors_BadfileDescriptor
+#define _core_ieee_std_1003dot1_errors_BadfileDescriptor ::core_ieee_std_1003dot1_errors_BadfileDescriptor
+
+struct core_ieee_std_1003dot1_errors_BadfileDescriptor {
+};
+
+#endif
